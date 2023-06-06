@@ -1,0 +1,4 @@
+enum AppStyle {
+  primary,
+  secondary,
+}
